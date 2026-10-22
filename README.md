@@ -1,6 +1,6 @@
 # Kerberos Authentication and Public-Key Distribution
 
-本專案是資安課程期末專案，以 Python 和 Tkinter 製作圖形化展示程式，模擬 Kerberos 認證流程，並展示時間戳記檢查、重放攻擊情境，以及 RSA 數位簽章與加解密。
+本專案是資訊安全與管理期末專案，以 Python 和 Tkinter 製作圖形化展示程式，模擬 Kerberos 認證流程，並展示時間戳記檢查、重放攻擊情境，以及 RSA 數位簽章與加解密。
 
 ## 專案內容
 
